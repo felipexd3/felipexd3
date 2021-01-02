@@ -5,7 +5,7 @@
 Skills: JAVA / HTML / CSS/ JS / TS
 
 - 🔭 I’m currently working on JAVA / ANGULAR 
-- 🌱 I’m currently learning AWS / CI&CD 
+- 🌱 I’m currently learning PYTHON / CLOUD / CI&CD 
 - 📫 How to reach me: fbfelipe91@gmail.com 
 
 
