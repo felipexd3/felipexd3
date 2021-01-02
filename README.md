@@ -13,5 +13,5 @@ Skills: JAVA / HTML / CSS/ JS / TS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipexd3&show_icons=true&count_private=true)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/felipexd3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/felipe-batista-1b355217b/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/felipe-batista-1b355217b/)  
 
