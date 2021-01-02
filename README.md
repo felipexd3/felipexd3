@@ -21,6 +21,13 @@
 </p>
 
 <p align="left">
+  :open_book: Learning: <br><br>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+</p>
+
+<p align="left">
   💼 Tools: <strong>Inteliij Idea, Eclipes, Visual Studio Code, PhotoShop, Git and GitHub.</strong>
 </p>
 
