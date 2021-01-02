@@ -1,20 +1,26 @@
-### Hi there 👋, my name is Felipe
-#### Bachelor degree in computer science / Developer / Scrum Master
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-I have been working with development for about 2 years as fullstack developer with Java and Angular, participing on projects since conception to production
+<p align="left"> 
+  Hello my name is Felipe, I am <strong>Back-end Developer</strong>.<br>
+  I am graduated in science computer.
+</p>
 
-  📌  Living in **Olinda, Pernambuco, Brazil**
+<p align="left">
+  🦄 Skills: <strong>Java, SQL, HTML5, CSS3, JavaScript, Sass, Bootstrap, Materialize.</strong>
+</p>
 
-Skills: JAVA / HTML / CSS/ JS / TS
+<p align="left">
+  💼 Tools: <strong>Inteliij Idea, Eclipes, Visual Studio Code, PhotoShop, Git and GitHub.</strong>
+</p>
 
-- 🔭 I’m currently working on JAVA / ANGULAR 
-- 🌱 I’m currently learning PYTHON / MOBILE / CLOUD / CI&CD 
-- 📫 How to reach me: fbfelipe91@gmail.com 
+<p align="left">
+  💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
+</p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipexd3)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipexd3&show_icons=true&count_private=true)  
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/felipe-batista-1b355217b/)  
-
+<p align="left">
+  <a href="https://www.instagram.com/iuricode/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/liipe_e/"/></a>
+  
+  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-batista-1b355217b" /></a>
+</p>  
