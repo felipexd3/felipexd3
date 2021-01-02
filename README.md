@@ -1,11 +1,14 @@
 ### Hi there 👋, my name is Felipe
-#### Bachelor degree in computer science
-  📌  living in **Olinda, Pernambuco, Brazil**
+#### Bachelor degree in computer science / Developer / Scrum Master
+
+I have been working with development for about 2 years as fullstack developer with Java and Angular, participing on projects since conception to production
+
+  📌  Living in **Olinda, Pernambuco, Brazil**
 
 Skills: JAVA / HTML / CSS/ JS / TS
 
 - 🔭 I’m currently working on JAVA / ANGULAR 
-- 🌱 I’m currently learning PYTHON / CLOUD / CI&CD 
+- 🌱 I’m currently learning PYTHON / MOBILE / CLOUD / CI&CD 
 - 📫 How to reach me: fbfelipe91@gmail.com 
 
 
