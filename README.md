@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Felipe
 #### Bachelor degree in computer science
-  📌  living in Olinda, Pernambuco, Brazil
+  📌  living in **Olinda, Pernambuco, Brazil**
 
 Skills: JAVA / HTML / CSS/ JS / TS
 
